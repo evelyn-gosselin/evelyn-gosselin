@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://count.getloli.com/get/@starcraft66?theme=gelbooru" />
-</p>
-
-<h3 align="center">A passionate semi-professional developer from Canada</h3>
+<h3 align="center">A passionate semi-trying developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evelyn-gosselin&label=Profile%20views&color=0e75b6&style=flat" alt="evelyn-gosselin" /> </p>
 
